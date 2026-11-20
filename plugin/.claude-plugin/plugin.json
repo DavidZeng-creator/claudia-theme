@@ -1,0 +1,20 @@
+{
+  "name": "claudia-theme",
+  "version": "1.0.0",
+  "description": "Orange, cream and gold look with an animated wordmark opening and the librarian character behind the conversation",
+  "author": {
+    "name": "DavidZeng-creator"
+  },
+  "license": "MIT AND CC-BY-NC-4.0",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "session_list_columns": {
+      "type": "number",
+      "title": "Session list width",
+      "description": "Only until you calibrate: open the ✿ menu and choose Calibrate (or /claudia calibrate), then click the background right beside the session list, and the plugin measures it itself. Otherwise, how wide the app's session list is in the app's character columns; 0 with it collapsed.",
+      "default": 25,
+      "min": 0,
+      "max": 200
+    }
+  }
+}

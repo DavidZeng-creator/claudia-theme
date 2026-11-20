@@ -1,0 +1,6 @@
+# The art tools' Python packages (Python 3.11 or later).
+# python -m venv .venv  then  .venv\Scripts\pip install -r art/requirements.txt
+vtracer>=0.6
+Pillow>=10
+numpy>=1.26
+resvg-py>=0.1

@@ -1,0 +1,16 @@
+{
+  "name": "claudia-theme",
+  "owner": {
+    "name": "DavidZeng-creator"
+  },
+  "metadata": {
+    "description": "Claudia: an animated, character-themed look for Claude Code in the Claude desktop app (unofficial fan theme)."
+  },
+  "plugins": [
+    {
+      "name": "claudia-theme",
+      "source": "./plugin",
+      "description": "Orange, cream and gold look with an animated wordmark opening and the librarian character behind the conversation"
+    }
+  ]
+}

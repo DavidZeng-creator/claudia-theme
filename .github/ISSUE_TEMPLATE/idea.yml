@@ -1,0 +1,19 @@
+name: Idea or request
+description: A new outfit, animation, setting or anything else you'd like
+labels: [idea]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What you'd like and why. Sketches, references or mock-ups are welcome.
+    validations:
+      required: true
+  - type: dropdown
+    id: help
+    attributes:
+      label: Would you like to work on it?
+      options:
+        - I'd like to make a pull request for it
+        - I could help with part of it
+        - Just suggesting it
