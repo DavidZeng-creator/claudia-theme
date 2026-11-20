@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # claudia-theme
 
 A look for Claude Code sessions in the Claude desktop (and mobile) app, built on the

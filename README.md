@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # Claudia — a theme for Claude Code
 
 An animated, character-themed look for Claude Code in the **Claude desktop app**: an ornate
@@ -69,7 +71,7 @@ Full details, settings, commands and known limits are in [plugin/README.md](plug
 ## Contributing
 
 Everyone is welcome to improve the theme — code, animations, new outfits, translations, bug
-reports and ideas. Start with [CONTRIBUTING.md](CONTRIBUTING.md); the art tools that build
+reports and ideas. Start with [CONTRIBUTING.md](CONTRIBUTING.md) ([简体中文](CONTRIBUTING.zh-CN.md)); the art tools that build
 every drawing from the original images are in [art/](art/README.md).
 
 ## License

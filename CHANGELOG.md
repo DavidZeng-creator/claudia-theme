@@ -4,7 +4,7 @@ All notable changes to the plugin. Versions follow [semantic versioning](https:/
 
 ## Unreleased
 
-- (Add your change here in a pull request.)
+- Simplified Chinese versions of the README, usage guide, contributor guide and art tools guide, and a Chinese summary of the artwork license.
 
 ## 1.0.0 — 2026-11-20
 

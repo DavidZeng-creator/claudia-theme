@@ -1,3 +1,5 @@
+**English** | [简体中文](CONTRIBUTING.zh-CN.md)
+
 # Contributing to claudia-theme
 
 Thank you for helping! Code, animations, artwork, documentation, bug reports and ideas are

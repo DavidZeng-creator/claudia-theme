@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # Art tools
 
 These scripts build every drawing the plugin shows — the opening, her resting layers, the
